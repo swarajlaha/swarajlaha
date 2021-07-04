@@ -2,7 +2,7 @@
 I'm a Front End Developer from India.
 
 - 🔭 I’m currently working on Front End Web Development, using React JS
-- 🌱 I’m currently learning new technologies, like - JavaScript, React JS, NodeJS, AWS
+- 🌱 I’m interested mainly in front end development and cloud platforms
 - 💬 Ask me about - Tech, Stocks, Fitness
 
 ## Connect with me
