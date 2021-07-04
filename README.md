@@ -3,7 +3,7 @@ I'm a Front End Developer from India.
 
 - 🔭 I’m currently working on Front End Web Development, using React JS
 - 🌱 I’m interested mainly in front end development and cloud platforms
-- 💬 Ask me about - Tech, Stocks, Fitness
+- 💬 Ask me about - Tech, Photography, Stocks, Fitness
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/swarajlaha/)
@@ -18,5 +18,7 @@ I'm a Front End Developer from India.
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="css" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="left" alt="css" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <br>
 <br>
