@@ -1,8 +1,8 @@
 ### Hello World! 👋
 I'm a Front End Developer from India.
 
-- 🔭 I’m currently working on Front End Web Development, using React JS
-- 🌱 I’m interested mainly in front end development and cloud platforms
+- 🔭 Currently working on Front End Web Development, using React JS
+- 🌱 Interested mainly in front end development and cloud platforms
 - 💬 Ask me about - Tech, Photography, Stocks, Fitness
 
 ## Connect with me
